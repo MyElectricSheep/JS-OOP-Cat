@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f6e017;
+  position: relative;
+}
+
+.js-logo {
+  border: 12px solid black;
+  width: 40%;
+}
